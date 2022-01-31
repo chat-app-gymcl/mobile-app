@@ -1,8 +1,8 @@
 {
-  "name": "convert-website-to-app",
+  "name": "2av-mobileapp",
   "version": "0.0.1",
-  "author": "Jameson Saunders",
-  "homepage": "https://jamesonsaunders.com/offer/website-to-app-497?s=githubcode",
+  "author": "VitekDev",
+  "homepage": "https://gymcl.tk/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
