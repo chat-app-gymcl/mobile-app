@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jamesonsaunders.convertwebsitetoapp',
-  appName: 'Website to App',
+  appId: 'tk.gymcl.mobile-app',
+  appName: '2AV',
   webDir: 'www',
   bundledWebRuntime: false,
 };
